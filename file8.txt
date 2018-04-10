@@ -1,1 +1,3 @@
-new file changes for stashing
+new file changes for stashing.
+adding additional changes.
+master and feature_branch

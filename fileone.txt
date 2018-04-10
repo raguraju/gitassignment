@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 first file has been added into repository.welcome
 =======
 first file has been added into repository.welcome to github.
