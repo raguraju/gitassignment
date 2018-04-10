@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-first file has been added into repository.wel
+first file has been added into repository.welcome
 =======
 first file has been added into repository.
 >>>>>>> 6371a240ecd640665b6fe3cac94fc18ed5daa2c8
