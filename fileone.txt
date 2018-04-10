@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 first file has been added into repository.welcome
+=======
+first file has been added into repository.welcome to github.
+=======
+<<<<<<< HEAD
+first file has been added into repository.wel
+>>>>>>> cfeaac9a6a6debae7ff0954ed549f7cb7fa7fd39
 =======
 first file has been added into repository.
 >>>>>>> 6371a240ecd640665b6fe3cac94fc18ed5daa2c8
+>>>>>>> 4fdb1dafbf8225a4e40ea52476aa54333855c8bd
