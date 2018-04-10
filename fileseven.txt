@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new file.
 
 new changes has been committed.
+=======
+new file
+>>>>>>> 77f68983c003f3e592176afd41bacd7921282d24
